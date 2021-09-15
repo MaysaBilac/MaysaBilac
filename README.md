@@ -4,7 +4,6 @@
 - 📚 Cursando Análise e Desenvolvimento de Sistemas;
 - 🌱 Busco iniciar carreira em front-end,
 - 📫 Entre em contato comigo pelo e-mail: maysa.bilac@hotmail.com;
-- 😄 Pronouns: ela/dela.
 
 ##
 
