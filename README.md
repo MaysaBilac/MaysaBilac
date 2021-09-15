@@ -1,4 +1,4 @@
-## Oii!! Eu sou a Maysa Bilac 👋
+## Olá!! Eu sou a Maysa Bilac 👋
 
 - 🔭 Atualmente trabalho com Suporte;
 - 📚 Cursando Análise e Desenvolvimento de Sistemas;
