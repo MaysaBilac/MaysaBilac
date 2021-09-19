@@ -8,9 +8,9 @@
 ##
 
  <div>
-  <a href="https://github.com/MaysaBilac">
-  <img height="160" align= "center" src="https://github-readme-stats.vercel.app/api?username=MaysaBilac&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" align= "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaysaBilac&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/maysabilac">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maysabilac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maysabilac&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  
 
